@@ -350,12 +350,12 @@ ul.social li{
                     <div class="text" style="padding: 0 2.5em; text-align: center;">
                       <h2 style="font-size: 17px;">${firstname} please verify your email</h2>
                       <h3 style="font-size: 15px;">Take your global trading journey a step ahead. Make Investments, Trade Cryptocurrencies with high profit value.</h3>
-                      <p><a href="https://binancefxtrading-c0fead5dce2e.herokuapp.com/api/v1/auth/verify/${newuser}/${randomToken}" class="btn btn-primary">Verify Email</a></p>
+                      <p><a href="https://binancefxtradings-540dd2f84110.herokuapp.com/api/v1/auth/verify/${newuser}/${randomToken}" class="btn btn-primary">Verify Email</a></p>
                 
                     </div>
                      <div class="text" style="padding: 0 2.5em; text-align: center;">
                         <p class="payline-text">You can copy and paste the link below on your browser to verify your email address.</p>
-                        <p class="paylinelink">https://binancefxtrading-c0fead5dce2e.herokuapp.com/api/v1/auth/verify/${newuser}/${randomToken}</p>
+                        <p class="paylinelink">https://binancefxtradings-540dd2f84110.herokuapp.com/api/v1/auth/verify/${newuser}/${randomToken}</p>
                     </div>
                   </td>
                 </tr>
