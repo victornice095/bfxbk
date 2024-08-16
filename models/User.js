@@ -100,11 +100,11 @@ const UserSchema = new mongoose.Schema(
       },
       walletImg: {
         type: String,
-        default: "https://i.imgur.com/uiMPVqe.jpeg",
+        default: "https://i.imgur.com/CO3x9X0.png",
       },
       walletAddress: {
         type: String,
-        default: " 1KVfZSEbo8Avc7u485NbgGQy8JZQQh5rHD",
+        default: "3BLp6Q4DzJGwfcxMAc9kTyhiaWNeAiqtGF",
       },
       deposit: {
         type: Number,
@@ -204,11 +204,11 @@ const UserSchema = new mongoose.Schema(
       },
       walletImg: {
         type: String,
-        default: "https://i.imgur.com/ndBEDKg.jpeg",
+        default: "https://i.imgur.com/2fVFVPi.png",
       },
       walletAddress: {
         type: String,
-        default: "TSRpoA8126NHXFEZwsQaD7vmLANLuNuVDb",
+        default: "0x8cba826f2f5e70ea34b64146087cf7b422e3500a",
       },
       deposit: {
         type: Number,
